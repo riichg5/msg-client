@@ -1,0 +1,6 @@
+*.swp
+cluster-master-socket
+node_modules/
+build/
+.idea/
+
